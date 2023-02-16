@@ -20,12 +20,12 @@ I'm Felipe Rodriguez, a front end developer who likes to write code.
 
 <br>
 
-####🖤 Personal Stuffs**
+#### 🖤 Personal Stuffs
 
 * I am currently a student of META frontend and backend course.
 * My hobbies are playing video games, playing the drums and ordering food through uber eat.
 * I speak English or so I think.
 
-####👨🏻‍💻 Languages and Tools
+#### 👨🏻‍💻 Languages and Tools
 
 *
