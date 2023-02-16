@@ -2,7 +2,7 @@
 
 ### Hi!
 
-I'm Felipe Rodriguez, a front end developer who likes to write code.
+I'm Felipe Rodriguez, a front end developer living in Chile.
 
 <p align="left">
   <a href="https://stackoverflow.com/users/18821339/felipe-rodriguez-henriquez" target="_blank" style='margin-right:10px'>
