@@ -4,7 +4,7 @@
 
 I'm Felipe Rodriguez, a front end developer who likes to write code.
 
-<p align="left" style="margin: 30px 0 0 30px">
+<p align="left">
   <a href="https://stackoverflow.com/users/18821339/felipe-rodriguez-henriquez" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
