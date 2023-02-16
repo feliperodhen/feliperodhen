@@ -28,4 +28,4 @@ I'm Felipe Rodriguez, a front end developer who likes to write code.
 
 #### 👨🏻‍💻 &nbsp;&nbsp;Languages and Tools
 
-*
+* Html, Css, Js, React, React-Native, Android Studio, Xcode
