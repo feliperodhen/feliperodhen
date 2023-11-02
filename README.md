@@ -28,4 +28,4 @@ I'm Felipe Rodriguez, a front end developer living in Chile.
 
 #### 👨🏻‍💻 &nbsp;&nbsp;Languages and Tools
 
-* Html, Css, Js, React, React-Native, Android Studio, Xcode
+* Html, Css, Js, Java, Kotlin, React, React-Native, Android Studio, Xcode
